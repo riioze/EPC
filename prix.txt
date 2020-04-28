@@ -1,0 +1,2 @@
+log : 0.13
+stone ore : 0.2
